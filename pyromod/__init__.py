@@ -41,6 +41,7 @@ __all__ = [
     "kb",
     "kbtn",
     "array_chunk",
+    "bttn",
     "force_reply",
     "Pagination",
 ]
